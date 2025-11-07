@@ -11,19 +11,19 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌তোমারগো লাং─꯭──⃝‌‌😿",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "100087466441450",
+    "",
+    ""
   ],
-  "NDH": ["100001039692046"],
+  "NDH": ["390098506854944"],
   "adminOnly": false,
   "ndhOnly": false,
-  "adminPaOnly": false,
+  "adminPaOnly": false,p
 
   "APPSTATEPATH": "appstate.json",
   "DATABASE": {
